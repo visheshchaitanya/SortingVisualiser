@@ -1,5 +1,5 @@
 # SortingVisualizer
 
-# Web based Application using HTML,CSS,SCSS and Javascript.
+Web based Application using HTML,CSS,SCSS and Javascript.
 
 
